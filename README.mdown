@@ -1,0 +1,4 @@
+# django-hellban
+
+Inspired by [Drupal Misery](http://drupal.org/project/misery), 
+["Suspension, Ban or Hellban?"](http://www.codinghorror.com/blog/2011/06/suspension-ban-or-hellban.html) by Jeff Atwood, and comment trolls everywhere.
